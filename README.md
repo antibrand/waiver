@@ -1,0 +1,2 @@
+# waiver
+Anti-legal stuff.
